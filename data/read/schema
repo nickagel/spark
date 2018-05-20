@@ -1,0 +1,6 @@
+StructType(fields=[
+    StructField(name='username',         dataType=StringType(),     nullable=False),
+    StructField(name='email',            dataType=StringType(),     nullable=False),
+    StructField(name='org_id',           dataType=IntegerType(),    nullable=False),
+    StructField(name='ag_id',            dataType=IntegerType(),    nullable=False)
+])
